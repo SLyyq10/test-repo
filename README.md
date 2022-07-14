@@ -1,2 +1,2 @@
 # test-repo
-github list
+github listen
