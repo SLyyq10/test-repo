@@ -1,2 +1,2 @@
 # test-repo
-github listen server
+github listen serve
